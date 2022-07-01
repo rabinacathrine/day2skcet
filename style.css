@@ -1,0 +1,38 @@
+#textdi{
+    /* align-items: start; */
+    /* align:left; */
+    /* align-items: center; */
+    /* display: inline-block; */
+    /* margin: 0; */
+    float: left;
+    /* text-align: center; */
+    width: 30%;
+    height: 100%;
+   margin-left: 2%;
+   overflow: hidden;
+   object-fit: cover;
+   padding: 200px 0;
+
+}
+
+#imgdi{
+    /* padding-left:0px; */
+    float: right;
+    width: 60%;
+    height:100vh;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+
+button{
+    width:150px;
+    padding: 10px;
+    border:1px solid orange;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.div2 h1{
+    background-color: grey;
+}
